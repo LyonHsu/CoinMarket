@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/exchange_Page_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="#9c9c9c"
+        android:letterSpacing="0.07"
+        android:lineSpacingExtra="9sp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:paddingTop="27dp"
+        android:paddingBottom="27dp"
+        android:text="目前無兌換商品"
+        />
+</LinearLayout>
